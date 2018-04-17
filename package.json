@@ -1,0 +1,29 @@
+{
+  "name": "ethereum-lab",
+  "version": "1.0.0",
+  "description": "A tutorial for solidity development",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/theofilis/ethereum-lab.git"
+  },
+  "keywords": [
+    "ethereum"
+  ],
+  "author": "George Theofilis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theofilis/ethereum-lab/issues"
+  },
+  "homepage": "https://github.com/theofilis/ethereum-lab#readme",
+  "dependencies": {
+    "web3": "1.0.0-beta.34",
+    "truffle": "4.1.6"
+  }
+}
